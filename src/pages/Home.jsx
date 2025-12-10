@@ -40,7 +40,7 @@ export default function Home() {
 
   return (
     <div>
-
+      {/* HERO */}
       {/* HERO */}
       <section className="hero container">
         <div className="hero-inner">
